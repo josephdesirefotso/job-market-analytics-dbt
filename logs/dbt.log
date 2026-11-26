@@ -1,0 +1,17 @@
+==================== 2026-11-25T05:15:45.847263Z | 01a21121-9f2d-7e10-bbbf-470493ecb160 ====================
+05:15:45.848115 [info ]: Installing dbt project and profile setup
+05:15:45.915922 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+05:15:45.916742 [info ]: Success Project created successfully!
+05:15:45.917097 [info ]: Info Project name: analytics
+05:15:45.917486 [info ]: Info Project directory: analytics
+05:15:45.918127 [info ]: Info Setting up your profile...
+05:15:45.918775 [info ]: Info Creating new profile...
+==================== 2026-11-25T05:21:32.023787Z | 01a21126-e773-7a70-844d-72860f65dae8 ====================
+05:21:32.024251 [info ]: Installing dbt project and profile setup
+05:21:32.084550 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+05:21:32.085275 [info ]: Success Project created successfully!
+05:21:32.085617 [info ]: Info Project name: analytics
+05:21:32.086005 [info ]: Info Project directory: analytics
+05:21:32.598113 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' successfully [574ms]
