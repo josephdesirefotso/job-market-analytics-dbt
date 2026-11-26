@@ -10,3 +10,13 @@ wheels/
 .venv
 
 .vscode
+
+# dbt artifacts & logs
+**/target/
+**/dbt_packages/
+**/logs/
+
+# Local data & DuckDB databases
+**/data/raw/*.parquet
+**/data/*.duckdb
+**/data/*.duckdb.wal
